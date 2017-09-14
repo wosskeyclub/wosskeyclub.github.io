@@ -1,0 +1,107 @@
+*{
+	background-image: url("memebackground.jpg");
+	font-family: "Comic Sans MS", "Papyrus", serif;
+}
+
+div{
+	background-image: none;
+}
+
+
+#keyclub{
+	height: 6em;
+	width: 6em;
+}
+
+#woss{ 
+	height: 6em;
+	width: 6em; 
+}
+
+.white{
+	background-color: rgb(255, 0, 255);
+	background-image: none;
+}
+
+#menu{
+	width: 38em;
+	display: block; 
+	margin-left: 28.5%;
+	background-color: rgb(255, 0, 255);
+}
+
+#fixed{
+	width: 100%;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	border: 1px solid black; 
+	z-index: 1;
+	background-color: rgb(255, 0, 255);
+}
+
+.menuthings{
+	display: inline-block;
+	background-color: rgb(0, 47, 95);
+	border: 1px solid black;
+	padding: 0.25em;
+	margin: 0.75em;
+}
+
+
+
+.menuthings > a{
+	background-color: rgb(0, 47, 95);
+	color: rgb(0, 255, 0);
+	background-image: none; 
+}
+
+.banner{
+	display: inline;
+	background-color: rgb(255, 0, 255);
+}
+
+a{
+	text-decoration: none;
+	color: rgb(244, 223, 66);
+}
+
+#banner{
+	width: 33.3em; 
+	margin: auto;
+	background-color: rgb(255, 0, 255);
+	display: block; 
+	background-image: none; 
+}
+
+#web-title{
+	background-color: rgb(255, 0, 255);
+	background-image: none;
+	font-family: "Papyrus", "Comic Sans MS", serif;
+}
+
+p, h1, h2, h3, .link{
+	background-image: none;
+}
+
+#memeoftheweek{
+	width: 100%;
+	margin: auto;
+}
+
+#memeclub{
+	background-color: rgb(255, 0, 255);
+	height: 6em;
+	width: 6em;
+	background-image: none;
+}
+
+#content{
+	width: 50%; 
+	margin-left: 24%;
+	margin-right: 24%;
+	background-color: rgb(255, 255, 0);
+	padding: 1em; 
+	position: absolute; 
+	top: 10em; 
+}
