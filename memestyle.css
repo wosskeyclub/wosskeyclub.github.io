@@ -78,6 +78,7 @@ a{
 	background-color: rgb(255, 0, 255);
 	background-image: none;
 	font-family: "Papyrus", "Comic Sans MS", serif;
+	font-size: 32px;
 }
 
 p, h1, h2, h3, .link{
