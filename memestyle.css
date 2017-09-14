@@ -67,7 +67,7 @@ a{
 }
 
 #banner{
-	width: 40%; 
+	width: 35%; 
 	margin: auto;
 	background-color: rgb(255, 0, 255);
 	display: block; 
@@ -78,7 +78,7 @@ a{
 	background-color: rgb(255, 0, 255);
 	background-image: none;
 	font-family: "Papyrus", "Comic Sans MS", serif;
-	font-size: 32px;
+	font-size: 25px;
 }
 
 p, h1, h2, h3, .link{
