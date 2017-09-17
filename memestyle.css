@@ -24,9 +24,9 @@ div{
 }
 
 #menu{
-	width: 45em;
+	width: 43em;
 	display: block; 
-	margin-left: 24em;
+	margin: auto;
 	background-color: rgb(255, 0, 255);
 }
 
