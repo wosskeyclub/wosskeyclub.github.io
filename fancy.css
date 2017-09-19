@@ -22,9 +22,9 @@
 }
 
 #menu{
-	width: 37em;
-	margin: auto;  
-	background-color:  rgb(195, 209, 229);
+	width: 50em;
+	margin-left: 24em;  
+	background-color:  rgb(255, 0, 255);
 	display: block; 
 }
 
