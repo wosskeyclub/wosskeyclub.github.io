@@ -22,10 +22,10 @@
 }
 
 #menu{
-	width: 50em;
-	margin-left: 27%;  
+	width: 37em;
+	margin: auto;  
 	background-color:  rgb(195, 209, 229);
-	display: block; 
+	display: block;  
 }
 
 #fixed{
